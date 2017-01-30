@@ -1,0 +1,2141 @@
+{
+  "timezones": {
+    "timezone": [
+      {
+        "CountryCode": "AD",
+        "LongLat": "+4230+00131",
+        "Tz": "Europe/Andorra"
+      },
+      {
+        "CountryCode": "AE",
+        "LongLat": "+2518+05518",
+        "Tz": "Asia/Dubai"
+      },
+      {
+        "CountryCode": "AF",
+        "LongLat": "+3431+06912",
+        "Tz": "Asia/Kabul"
+      },
+      {
+        "CountryCode": "AG",
+        "LongLat": "+1039-06131",
+        "Tz": "America/Port_of_Spain"
+      },
+      {
+        "CountryCode": "AI",
+        "LongLat": "+1039-06131",
+        "Tz": "America/Port_of_Spain"
+      },
+      {
+        "CountryCode": "AL",
+        "LongLat": "+4120+01950",
+        "Tz": "Europe/Tirane"
+      },
+      {
+        "CountryCode": "AM",
+        "LongLat": "+4011+04430",
+        "Tz": "Asia/Yerevan"
+      },
+      {
+        "CountryCode": "AO",
+        "LongLat": "+0627+00324",
+        "Tz": "Africa/Lagos"
+      },
+      {
+        "CountryCode": "AQ",
+        "LongLat": "-3652+17446",
+        "Tz": "Pacific/Auckland"
+      },
+      {
+        "CountryCode": "AQ",
+        "LongLat": "-6448-06406",
+        "Tz": "Antarctica/Palmer"
+      },
+      {
+        "CountryCode": "AQ",
+        "LongLat": "-6617+11031",
+        "Tz": "Antarctica/Casey"
+      },
+      {
+        "CountryCode": "AQ",
+        "LongLat": "-6640+14001",
+        "Tz": "Antarctica/DumontDUrville"
+      },
+      {
+        "CountryCode": "AQ",
+        "LongLat": "-6734-06808",
+        "Tz": "Antarctica/Rothera"
+      },
+      {
+        "CountryCode": "AQ",
+        "LongLat": "-6736+06253",
+        "Tz": "Antarctica/Mawson"
+      },
+      {
+        "CountryCode": "AQ",
+        "LongLat": "-6835+07758",
+        "Tz": "Antarctica/Davis"
+      },
+      {
+        "CountryCode": "AQ",
+        "LongLat": "-690022+0393524",
+        "Tz": "Antarctica/Syowa"
+      },
+      {
+        "CountryCode": "AQ",
+        "LongLat": "-720041+0023206",
+        "Tz": "Antarctica/Troll"
+      },
+      {
+        "CountryCode": "AQ",
+        "LongLat": "-7824+10654",
+        "Tz": "Antarctica/Vostok"
+      },
+      {
+        "CountryCode": "AR",
+        "LongLat": "-2411-06518",
+        "Tz": "America/Argentina/Jujuy"
+      },
+      {
+        "CountryCode": "AR",
+        "LongLat": "-2447-06525",
+        "Tz": "America/Argentina/Salta"
+      },
+      {
+        "CountryCode": "AR",
+        "LongLat": "-2649-06513",
+        "Tz": "America/Argentina/Tucuman"
+      },
+      {
+        "CountryCode": "AR",
+        "LongLat": "-2828-06547",
+        "Tz": "America/Argentina/Catamarca"
+      },
+      {
+        "CountryCode": "AR",
+        "LongLat": "-2926-06651",
+        "Tz": "America/Argentina/La_Rioja"
+      },
+      {
+        "CountryCode": "AR",
+        "LongLat": "-3124-06411",
+        "Tz": "America/Argentina/Cordoba"
+      },
+      {
+        "CountryCode": "AR",
+        "LongLat": "-3132-06831",
+        "Tz": "America/Argentina/San_Juan"
+      },
+      {
+        "CountryCode": "AR",
+        "LongLat": "-3253-06849",
+        "Tz": "America/Argentina/Mendoza"
+      },
+      {
+        "CountryCode": "AR",
+        "LongLat": "-3319-06621",
+        "Tz": "America/Argentina/San_Luis"
+      },
+      {
+        "CountryCode": "AR",
+        "LongLat": "-3436-05827",
+        "Tz": "America/Argentina/Buenos_Aires"
+      },
+      {
+        "CountryCode": "AR",
+        "LongLat": "-5138-06913",
+        "Tz": "America/Argentina/Rio_Gallegos"
+      },
+      {
+        "CountryCode": "AR",
+        "LongLat": "-5448-06818",
+        "Tz": "America/Argentina/Ushuaia"
+      },
+      {
+        "CountryCode": "AS",
+        "LongLat": "-1416-17042",
+        "Tz": "Pacific/Pago_Pago"
+      },
+      {
+        "CountryCode": "AT",
+        "LongLat": "+4813+01620",
+        "Tz": "Europe/Vienna"
+      },
+      {
+        "CountryCode": "AU",
+        "LongLat": "-1228+13050",
+        "Tz": "Australia/Darwin"
+      },
+      {
+        "CountryCode": "AU",
+        "LongLat": "-2016+14900",
+        "Tz": "Australia/Lindeman"
+      },
+      {
+        "CountryCode": "AU",
+        "LongLat": "-2728+15302",
+        "Tz": "Australia/Brisbane"
+      },
+      {
+        "CountryCode": "AU",
+        "LongLat": "-3133+15905",
+        "Tz": "Australia/Lord_Howe"
+      },
+      {
+        "CountryCode": "AU",
+        "LongLat": "-3143+12852",
+        "Tz": "Australia/Eucla"
+      },
+      {
+        "CountryCode": "AU",
+        "LongLat": "-3157+11551",
+        "Tz": "Australia/Perth"
+      },
+      {
+        "CountryCode": "AU",
+        "LongLat": "-3157+14127",
+        "Tz": "Australia/Broken_Hill"
+      },
+      {
+        "CountryCode": "AU",
+        "LongLat": "-3352+15113",
+        "Tz": "Australia/Sydney"
+      },
+      {
+        "CountryCode": "AU",
+        "LongLat": "-3455+13835",
+        "Tz": "Australia/Adelaide"
+      },
+      {
+        "CountryCode": "AU",
+        "LongLat": "-3749+14458",
+        "Tz": "Australia/Melbourne"
+      },
+      {
+        "CountryCode": "AU",
+        "LongLat": "-3956+14352",
+        "Tz": "Australia/Currie"
+      },
+      {
+        "CountryCode": "AU",
+        "LongLat": "-4253+14719",
+        "Tz": "Australia/Hobart"
+      },
+      {
+        "CountryCode": "AU",
+        "LongLat": "-5430+15857",
+        "Tz": "Antarctica/Macquarie"
+      },
+      {
+        "CountryCode": "AW",
+        "LongLat": "+1211-06900",
+        "Tz": "America/Curacao"
+      },
+      {
+        "CountryCode": "AX",
+        "LongLat": "+6010+02458",
+        "Tz": "Europe/Helsinki"
+      },
+      {
+        "CountryCode": "AZ",
+        "LongLat": "+4023+04951",
+        "Tz": "Asia/Baku"
+      },
+      {
+        "CountryCode": "BA",
+        "LongLat": "+4450+02030",
+        "Tz": "Europe/Belgrade"
+      },
+      {
+        "CountryCode": "BB",
+        "LongLat": "+1306-05937",
+        "Tz": "America/Barbados"
+      },
+      {
+        "CountryCode": "BD",
+        "LongLat": "+2343+09025",
+        "Tz": "Asia/Dhaka"
+      },
+      {
+        "CountryCode": "BE",
+        "LongLat": "+5050+00420",
+        "Tz": "Europe/Brussels"
+      },
+      {
+        "CountryCode": "BF",
+        "LongLat": "+0519-00402",
+        "Tz": "Africa/Abidjan"
+      },
+      {
+        "CountryCode": "BG",
+        "LongLat": "+4241+02319",
+        "Tz": "Europe/Sofia"
+      },
+      {
+        "CountryCode": "BH",
+        "LongLat": "+2517+05132",
+        "Tz": "Asia/Qatar"
+      },
+      {
+        "CountryCode": "BI",
+        "LongLat": "-2558+03235",
+        "Tz": "Africa/Maputo"
+      },
+      {
+        "CountryCode": "BJ",
+        "LongLat": "+0627+00324",
+        "Tz": "Africa/Lagos"
+      },
+      {
+        "CountryCode": "BL",
+        "LongLat": "+1039-06131",
+        "Tz": "America/Port_of_Spain"
+      },
+      {
+        "CountryCode": "BM",
+        "LongLat": "+3217-06446",
+        "Tz": "Atlantic/Bermuda"
+      },
+      {
+        "CountryCode": "BN",
+        "LongLat": "+0456+11455",
+        "Tz": "Asia/Brunei"
+      },
+      {
+        "CountryCode": "BO",
+        "LongLat": "-1630-06809",
+        "Tz": "America/La_Paz"
+      },
+      {
+        "CountryCode": "BQ",
+        "LongLat": "+1211-06900",
+        "Tz": "America/Curacao"
+      },
+      {
+        "CountryCode": "BR",
+        "LongLat": "+0249-06040",
+        "Tz": "America/Boa_Vista"
+      },
+      {
+        "CountryCode": "BR",
+        "LongLat": "-0127-04829",
+        "Tz": "America/Belem"
+      },
+      {
+        "CountryCode": "BR",
+        "LongLat": "-0226-05452",
+        "Tz": "America/Santarem"
+      },
+      {
+        "CountryCode": "BR",
+        "LongLat": "-0308-06001",
+        "Tz": "America/Manaus"
+      },
+      {
+        "CountryCode": "BR",
+        "LongLat": "-0343-03830",
+        "Tz": "America/Fortaleza"
+      },
+      {
+        "CountryCode": "BR",
+        "LongLat": "-0351-03225",
+        "Tz": "America/Noronha"
+      },
+      {
+        "CountryCode": "BR",
+        "LongLat": "-0640-06952",
+        "Tz": "America/Eirunepe"
+      },
+      {
+        "CountryCode": "BR",
+        "LongLat": "-0712-04812",
+        "Tz": "America/Araguaina"
+      },
+      {
+        "CountryCode": "BR",
+        "LongLat": "-0803-03454",
+        "Tz": "America/Recife"
+      },
+      {
+        "CountryCode": "BR",
+        "LongLat": "-0846-06354",
+        "Tz": "America/Porto_Velho"
+      },
+      {
+        "CountryCode": "BR",
+        "LongLat": "-0940-03543",
+        "Tz": "America/Maceio"
+      },
+      {
+        "CountryCode": "BR",
+        "LongLat": "-0958-06748",
+        "Tz": "America/Rio_Branco"
+      },
+      {
+        "CountryCode": "BR",
+        "LongLat": "-1259-03831",
+        "Tz": "America/Bahia"
+      },
+      {
+        "CountryCode": "BR",
+        "LongLat": "-1535-05605",
+        "Tz": "America/Cuiaba"
+      },
+      {
+        "CountryCode": "BR",
+        "LongLat": "-2027-05437",
+        "Tz": "America/Campo_Grande"
+      },
+      {
+        "CountryCode": "BR",
+        "LongLat": "-2332-04637",
+        "Tz": "America/Sao_Paulo"
+      },
+      {
+        "CountryCode": "BS",
+        "LongLat": "+2505-07721",
+        "Tz": "America/Nassau"
+      },
+      {
+        "CountryCode": "BT",
+        "LongLat": "+2728+08939",
+        "Tz": "Asia/Thimphu"
+      },
+      {
+        "CountryCode": "BW",
+        "LongLat": "-2558+03235",
+        "Tz": "Africa/Maputo"
+      },
+      {
+        "CountryCode": "BY",
+        "LongLat": "+5354+02734",
+        "Tz": "Europe/Minsk"
+      },
+      {
+        "CountryCode": "BZ",
+        "LongLat": "+1730-08812",
+        "Tz": "America/Belize"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+4339-07923",
+        "Tz": "America/Toronto"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+4439-06336",
+        "Tz": "America/Halifax"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+4606-06447",
+        "Tz": "America/Moncton"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+4612-05957",
+        "Tz": "America/Glace_Bay"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+4734-05243",
+        "Tz": "America/St_Johns"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+4823-08915",
+        "Tz": "America/Thunder_Bay"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+4843-09434",
+        "Tz": "America/Rainy_River"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+484531-0913718",
+        "Tz": "America/Atikokan"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+4901-08816",
+        "Tz": "America/Nipigon"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+4906-11631",
+        "Tz": "America/Creston"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+4916-12307",
+        "Tz": "America/Vancouver"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+4953-09709",
+        "Tz": "America/Winnipeg"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+5017-10750",
+        "Tz": "America/Swift_Current"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+5024-10439",
+        "Tz": "America/Regina"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+5125-05707",
+        "Tz": "America/Blanc-Sablon"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+5320-06025",
+        "Tz": "America/Goose_Bay"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+5333-11328",
+        "Tz": "America/Edmonton"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+5848-12242",
+        "Tz": "America/Fort_Nelson"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+5946-12014",
+        "Tz": "America/Dawson_Creek"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+6043-13503",
+        "Tz": "America/Whitehorse"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+6227-11421",
+        "Tz": "America/Yellowknife"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+624900-0920459",
+        "Tz": "America/Rankin_Inlet"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+6344-06828",
+        "Tz": "America/Iqaluit"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+6404-13925",
+        "Tz": "America/Dawson"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+6608-06544",
+        "Tz": "America/Pangnirtung"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+682059-1334300",
+        "Tz": "America/Inuvik"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+690650-1050310",
+        "Tz": "America/Cambridge_Bay"
+      },
+      {
+        "CountryCode": "CA",
+        "LongLat": "+744144-0944945",
+        "Tz": "America/Resolute"
+      },
+      {
+        "CountryCode": "CC",
+        "LongLat": "-1210+09655",
+        "Tz": "Indian/Cocos"
+      },
+      {
+        "CountryCode": "CD",
+        "LongLat": "+0627+00324",
+        "Tz": "Africa/Lagos"
+      },
+      {
+        "CountryCode": "CD",
+        "LongLat": "-2558+03235",
+        "Tz": "Africa/Maputo"
+      },
+      {
+        "CountryCode": "CF",
+        "LongLat": "+0627+00324",
+        "Tz": "Africa/Lagos"
+      },
+      {
+        "CountryCode": "CG",
+        "LongLat": "+0627+00324",
+        "Tz": "Africa/Lagos"
+      },
+      {
+        "CountryCode": "CH",
+        "LongLat": "+4723+00832",
+        "Tz": "Europe/Zurich"
+      },
+      {
+        "CountryCode": "CI",
+        "LongLat": "+0519-00402",
+        "Tz": "Africa/Abidjan"
+      },
+      {
+        "CountryCode": "CK",
+        "LongLat": "-2114-15946",
+        "Tz": "Pacific/Rarotonga"
+      },
+      {
+        "CountryCode": "CL",
+        "LongLat": "-2709-10926",
+        "Tz": "Pacific/Easter"
+      },
+      {
+        "CountryCode": "CL",
+        "LongLat": "-3327-07040",
+        "Tz": "America/Santiago"
+      },
+      {
+        "CountryCode": "CL",
+        "LongLat": "-5309-07055",
+        "Tz": "America/Punta_Arenas"
+      },
+      {
+        "CountryCode": "CM",
+        "LongLat": "+0627+00324",
+        "Tz": "Africa/Lagos"
+      },
+      {
+        "CountryCode": "CN",
+        "LongLat": "+3114+12128",
+        "Tz": "Asia/Shanghai"
+      },
+      {
+        "CountryCode": "CN",
+        "LongLat": "+4348+08735",
+        "Tz": "Asia/Urumqi"
+      },
+      {
+        "CountryCode": "CO",
+        "LongLat": "+0436-07405",
+        "Tz": "America/Bogota"
+      },
+      {
+        "CountryCode": "CR",
+        "LongLat": "+0956-08405",
+        "Tz": "America/Costa_Rica"
+      },
+      {
+        "CountryCode": "CU",
+        "LongLat": "+2308-08222",
+        "Tz": "America/Havana"
+      },
+      {
+        "CountryCode": "CV",
+        "LongLat": "+1455-02331",
+        "Tz": "Atlantic/Cape_Verde"
+      },
+      {
+        "CountryCode": "CW",
+        "LongLat": "+1211-06900",
+        "Tz": "America/Curacao"
+      },
+      {
+        "CountryCode": "CX",
+        "LongLat": "-1025+10543",
+        "Tz": "Indian/Christmas"
+      },
+      {
+        "CountryCode": "CY",
+        "LongLat": "+3507+03357",
+        "Tz": "Asia/Famagusta"
+      },
+      {
+        "CountryCode": "CY",
+        "LongLat": "+3510+03322",
+        "Tz": "Asia/Nicosia"
+      },
+      {
+        "CountryCode": "CZ",
+        "LongLat": "+5005+01426",
+        "Tz": "Europe/Prague"
+      },
+      {
+        "CountryCode": "DE",
+        "LongLat": "+4723+00832",
+        "Tz": "Europe/Zurich"
+      },
+      {
+        "CountryCode": "DE",
+        "LongLat": "+5230+01322",
+        "Tz": "Europe/Berlin"
+      },
+      {
+        "CountryCode": "DJT",
+        "LongLat": "-0117+03649",
+        "Tz": "Africa/Nairobi"
+      },
+      {
+        "CountryCode": "DK",
+        "LongLat": "+5540+01235",
+        "Tz": "Europe/Copenhagen"
+      },
+      {
+        "CountryCode": "DM",
+        "LongLat": "+1039-06131",
+        "Tz": "America/Port_of_Spain"
+      },
+      {
+        "CountryCode": "DO",
+        "LongLat": "+1828-06954",
+        "Tz": "America/Santo_Domingo"
+      },
+      {
+        "CountryCode": "DZ",
+        "LongLat": "+3647+00303",
+        "Tz": "Africa/Algiers"
+      },
+      {
+        "CountryCode": "EC",
+        "LongLat": "-0054-08936",
+        "Tz": "Pacific/Galapagos"
+      },
+      {
+        "CountryCode": "EC",
+        "LongLat": "-0210-07950",
+        "Tz": "America/Guayaquil"
+      },
+      {
+        "CountryCode": "EE",
+        "LongLat": "+5925+02445",
+        "Tz": "Europe/Tallinn"
+      },
+      {
+        "CountryCode": "EG",
+        "LongLat": "+3003+03115",
+        "Tz": "Africa/Cairo"
+      },
+      {
+        "CountryCode": "EH",
+        "LongLat": "+2709-01312",
+        "Tz": "Africa/El_Aaiun"
+      },
+      {
+        "CountryCode": "ER",
+        "LongLat": "-0117+03649",
+        "Tz": "Africa/Nairobi"
+      },
+      {
+        "CountryCode": "ES",
+        "LongLat": "+2806-01524",
+        "Tz": "Atlantic/Canary"
+      },
+      {
+        "CountryCode": "ES",
+        "LongLat": "+3553-00519",
+        "Tz": "Africa/Ceuta"
+      },
+      {
+        "CountryCode": "ES",
+        "LongLat": "+4024-00341",
+        "Tz": "Europe/Madrid"
+      },
+      {
+        "CountryCode": "ET",
+        "LongLat": "-0117+03649",
+        "Tz": "Africa/Nairobi"
+      },
+      {
+        "CountryCode": "FI",
+        "LongLat": "+6010+02458",
+        "Tz": "Europe/Helsinki"
+      },
+      {
+        "CountryCode": "FJ",
+        "LongLat": "-1808+17825",
+        "Tz": "Pacific/Fiji"
+      },
+      {
+        "CountryCode": "FK",
+        "LongLat": "-5142-05751",
+        "Tz": "Atlantic/Stanley"
+      },
+      {
+        "CountryCode": "FM",
+        "LongLat": "+0519+16259",
+        "Tz": "Pacific/Kosrae"
+      },
+      {
+        "CountryCode": "FM",
+        "LongLat": "+0658+15813",
+        "Tz": "Pacific/Pohnpei"
+      },
+      {
+        "CountryCode": "FM",
+        "LongLat": "+0725+15147",
+        "Tz": "Pacific/Chuuk"
+      },
+      {
+        "CountryCode": "FO",
+        "LongLat": "+6201-00646",
+        "Tz": "Atlantic/Faroe"
+      },
+      {
+        "CountryCode": "FR",
+        "LongLat": "+4852+00220",
+        "Tz": "Europe/Paris"
+      },
+      {
+        "CountryCode": "GA",
+        "LongLat": "+0627+00324",
+        "Tz": "Africa/Lagos"
+      },
+      {
+        "CountryCode": "GB",
+        "LongLat": "+513030-0000731",
+        "Tz": "Europe/London"
+      },
+      {
+        "CountryCode": "GD",
+        "LongLat": "+1039-06131",
+        "Tz": "America/Port_of_Spain"
+      },
+      {
+        "CountryCode": "GE",
+        "LongLat": "+4143+04449",
+        "Tz": "Asia/Tbilisi"
+      },
+      {
+        "CountryCode": "GF",
+        "LongLat": "+0456-05220",
+        "Tz": "America/Cayenne"
+      },
+      {
+        "CountryCode": "GG",
+        "LongLat": "+513030-0000731",
+        "Tz": "Europe/London"
+      },
+      {
+        "CountryCode": "GH",
+        "LongLat": "+0533-00013",
+        "Tz": "Africa/Accra"
+      },
+      {
+        "CountryCode": "GI",
+        "LongLat": "+3608-00521",
+        "Tz": "Europe/Gibraltar"
+      },
+      {
+        "CountryCode": "GL",
+        "LongLat": "+6411-05144",
+        "Tz": "America/Godthab"
+      },
+      {
+        "CountryCode": "GL",
+        "LongLat": "+7029-02158",
+        "Tz": "America/Scoresbysund"
+      },
+      {
+        "CountryCode": "GL",
+        "LongLat": "+7634-06847",
+        "Tz": "America/Thule"
+      },
+      {
+        "CountryCode": "GL",
+        "LongLat": "+7646-01840",
+        "Tz": "America/Danmarkshavn"
+      },
+      {
+        "CountryCode": "GM",
+        "LongLat": "+0519-00402",
+        "Tz": "Africa/Abidjan"
+      },
+      {
+        "CountryCode": "GN",
+        "LongLat": "+0519-00402",
+        "Tz": "Africa/Abidjan"
+      },
+      {
+        "CountryCode": "GP",
+        "LongLat": "+1039-06131",
+        "Tz": "America/Port_of_Spain"
+      },
+      {
+        "CountryCode": "GQ",
+        "LongLat": "+0627+00324",
+        "Tz": "Africa/Lagos"
+      },
+      {
+        "CountryCode": "GR",
+        "LongLat": "+3758+02343",
+        "Tz": "Europe/Athens"
+      },
+      {
+        "CountryCode": "GS",
+        "LongLat": "-5416-03632",
+        "Tz": "Atlantic/South_Georgia"
+      },
+      {
+        "CountryCode": "GT",
+        "LongLat": "+1438-09031",
+        "Tz": "America/Guatemala"
+      },
+      {
+        "CountryCode": "GU",
+        "LongLat": "+1328+14445",
+        "Tz": "Pacific/Guam"
+      },
+      {
+        "CountryCode": "GW",
+        "LongLat": "+1151-01535",
+        "Tz": "Africa/Bissau"
+      },
+      {
+        "CountryCode": "GY",
+        "LongLat": "+0648-05810",
+        "Tz": "America/Guyana"
+      },
+      {
+        "CountryCode": "HK",
+        "LongLat": "+2217+11409",
+        "Tz": "Asia/Hong_Kong"
+      },
+      {
+        "CountryCode": "HN",
+        "LongLat": "+1406-08713",
+        "Tz": "America/Tegucigalpa"
+      },
+      {
+        "CountryCode": "HR",
+        "LongLat": "+4450+02030",
+        "Tz": "Europe/Belgrade"
+      },
+      {
+        "CountryCode": "HT",
+        "LongLat": "+1832-07220",
+        "Tz": "America/Port-au-Prince"
+      },
+      {
+        "CountryCode": "HU",
+        "LongLat": "+4730+01905",
+        "Tz": "Europe/Budapest"
+      },
+      {
+        "CountryCode": "ID",
+        "LongLat": "-0002+10920",
+        "Tz": "Asia/Pontianak"
+      },
+      {
+        "CountryCode": "ID",
+        "LongLat": "-0232+14042",
+        "Tz": "Asia/Jayapura"
+      },
+      {
+        "CountryCode": "ID",
+        "LongLat": "-0507+11924",
+        "Tz": "Asia/Makassar"
+      },
+      {
+        "CountryCode": "ID",
+        "LongLat": "-0610+10648",
+        "Tz": "Asia/Jakarta"
+      },
+      {
+        "CountryCode": "IE",
+        "LongLat": "+5320-00615",
+        "Tz": "Europe/Dublin"
+      },
+      {
+        "CountryCode": "IL",
+        "LongLat": "+314650+0351326",
+        "Tz": "Asia/Jerusalem"
+      },
+      {
+        "CountryCode": "IM",
+        "LongLat": "+513030-0000731",
+        "Tz": "Europe/London"
+      },
+      {
+        "CountryCode": "IN",
+        "LongLat": "+2232+08822",
+        "Tz": "Asia/Kolkata"
+      },
+      {
+        "CountryCode": "IO",
+        "LongLat": "-0720+07225",
+        "Tz": "Indian/Chagos"
+      },
+      {
+        "CountryCode": "IQ",
+        "LongLat": "+3321+04425",
+        "Tz": "Asia/Baghdad"
+      },
+      {
+        "CountryCode": "IR",
+        "LongLat": "+3540+05126",
+        "Tz": "Asia/Tehran"
+      },
+      {
+        "CountryCode": "IS",
+        "LongLat": "+6409-02151",
+        "Tz": "Atlantic/Reykjavik"
+      },
+      {
+        "CountryCode": "IT",
+        "LongLat": "+4154+01229",
+        "Tz": "Europe/Rome"
+      },
+      {
+        "CountryCode": "JE",
+        "LongLat": "+513030-0000731",
+        "Tz": "Europe/London"
+      },
+      {
+        "CountryCode": "JM",
+        "LongLat": "+175805-0764736",
+        "Tz": "America/Jamaica"
+      },
+      {
+        "CountryCode": "JO",
+        "LongLat": "+3157+03556",
+        "Tz": "Asia/Amman"
+      },
+      {
+        "CountryCode": "JP",
+        "LongLat": "+353916+1394441",
+        "Tz": "Asia/Tokyo"
+      },
+      {
+        "CountryCode": "KE",
+        "LongLat": "-0117+03649",
+        "Tz": "Africa/Nairobi"
+      },
+      {
+        "CountryCode": "KG",
+        "LongLat": "+4254+07436",
+        "Tz": "Asia/Bishkek"
+      },
+      {
+        "CountryCode": "KH",
+        "LongLat": "+1345+10031",
+        "Tz": "Asia/Bangkok"
+      },
+      {
+        "CountryCode": "KI",
+        "LongLat": "+0125+17300",
+        "Tz": "Pacific/Tarawa"
+      },
+      {
+        "CountryCode": "KI",
+        "LongLat": "+0152-15720",
+        "Tz": "Pacific/Kiritimati"
+      },
+      {
+        "CountryCode": "KI",
+        "LongLat": "-0308-17105",
+        "Tz": "Pacific/Enderbury"
+      },
+      {
+        "CountryCode": "KM",
+        "LongLat": "-0117+03649",
+        "Tz": "Africa/Nairobi"
+      },
+      {
+        "CountryCode": "KN",
+        "LongLat": "+1039-06131",
+        "Tz": "America/Port_of_Spain"
+      },
+      {
+        "CountryCode": "KP",
+        "LongLat": "+3901+12545",
+        "Tz": "Asia/Pyongyang"
+      },
+      {
+        "CountryCode": "KR",
+        "LongLat": "+3733+12658",
+        "Tz": "Asia/Seoul"
+      },
+      {
+        "CountryCode": "KW",
+        "LongLat": "+2438+04643",
+        "Tz": "Asia/Riyadh"
+      },
+      {
+        "CountryCode": "KY",
+        "LongLat": "+0858-07932",
+        "Tz": "America/Panama"
+      },
+      {
+        "CountryCode": "KZ",
+        "LongLat": "+4315+07657",
+        "Tz": "Asia/Almaty"
+      },
+      {
+        "CountryCode": "KZ",
+        "LongLat": "+4431+05016",
+        "Tz": "Asia/Aqtau"
+      },
+      {
+        "CountryCode": "KZ",
+        "LongLat": "+4448+06528",
+        "Tz": "Asia/Qyzylorda"
+      },
+      {
+        "CountryCode": "KZ",
+        "LongLat": "+4707+05156",
+        "Tz": "Asia/Atyrau"
+      },
+      {
+        "CountryCode": "KZ",
+        "LongLat": "+5017+05710",
+        "Tz": "Asia/Aqtobe"
+      },
+      {
+        "CountryCode": "KZ",
+        "LongLat": "+5113+05121",
+        "Tz": "Asia/Oral"
+      },
+      {
+        "CountryCode": "LA",
+        "LongLat": "+1345+10031",
+        "Tz": "Asia/Bangkok"
+      },
+      {
+        "CountryCode": "LB",
+        "LongLat": "+3353+03530",
+        "Tz": "Asia/Beirut"
+      },
+      {
+        "CountryCode": "LC",
+        "LongLat": "+1039-06131",
+        "Tz": "America/Port_of_Spain"
+      },
+      {
+        "CountryCode": "LI",
+        "LongLat": "+4723+00832",
+        "Tz": "Europe/Zurich"
+      },
+      {
+        "CountryCode": "LK",
+        "LongLat": "+0656+07951",
+        "Tz": "Asia/Colombo"
+      },
+      {
+        "CountryCode": "LR",
+        "LongLat": "+0618-01047",
+        "Tz": "Africa/Monrovia"
+      },
+      {
+        "CountryCode": "LS",
+        "LongLat": "-2615+02800",
+        "Tz": "Africa/Johannesburg"
+      },
+      {
+        "CountryCode": "LT",
+        "LongLat": "+5441+02519",
+        "Tz": "Europe/Vilnius"
+      },
+      {
+        "CountryCode": "LU",
+        "LongLat": "+4936+00609",
+        "Tz": "Europe/Luxembourg"
+      },
+      {
+        "CountryCode": "LV",
+        "LongLat": "+5657+02406",
+        "Tz": "Europe/Riga"
+      },
+      {
+        "CountryCode": "LY",
+        "LongLat": "+3254+01311",
+        "Tz": "Africa/Tripoli"
+      },
+      {
+        "CountryCode": "MA",
+        "LongLat": "+3339-00735",
+        "Tz": "Africa/Casablanca"
+      },
+      {
+        "CountryCode": "MC",
+        "LongLat": "+4342+00723",
+        "Tz": "Europe/Monaco"
+      },
+      {
+        "CountryCode": "MD",
+        "LongLat": "+4700+02850",
+        "Tz": "Europe/Chisinau"
+      },
+      {
+        "CountryCode": "ME",
+        "LongLat": "+4450+02030",
+        "Tz": "Europe/Belgrade"
+      },
+      {
+        "CountryCode": "MF",
+        "LongLat": "+1039-06131",
+        "Tz": "America/Port_of_Spain"
+      },
+      {
+        "CountryCode": "MG",
+        "LongLat": "-0117+03649",
+        "Tz": "Africa/Nairobi"
+      },
+      {
+        "CountryCode": "MH",
+        "LongLat": "+0709+17112",
+        "Tz": "Pacific/Majuro"
+      },
+      {
+        "CountryCode": "MH",
+        "LongLat": "+0905+16720",
+        "Tz": "Pacific/Kwajalein"
+      },
+      {
+        "CountryCode": "MK",
+        "LongLat": "+4450+02030",
+        "Tz": "Europe/Belgrade"
+      },
+      {
+        "CountryCode": "ML",
+        "LongLat": "+0519-00402",
+        "Tz": "Africa/Abidjan"
+      },
+      {
+        "CountryCode": "MM",
+        "LongLat": "+1647+09610",
+        "Tz": "Asia/Yangon"
+      },
+      {
+        "CountryCode": "MN",
+        "LongLat": "+4755+10653",
+        "Tz": "Asia/Ulaanbaatar"
+      },
+      {
+        "CountryCode": "MN",
+        "LongLat": "+4801+09139",
+        "Tz": "Asia/Hovd"
+      },
+      {
+        "CountryCode": "MN",
+        "LongLat": "+4804+11430",
+        "Tz": "Asia/Choibalsan"
+      },
+      {
+        "CountryCode": "MO",
+        "LongLat": "+2214+11335",
+        "Tz": "Asia/Macau"
+      },
+      {
+        "CountryCode": "MP",
+        "LongLat": "+1328+14445",
+        "Tz": "Pacific/Guam"
+      },
+      {
+        "CountryCode": "MQ",
+        "LongLat": "+1436-06105",
+        "Tz": "America/Martinique"
+      },
+      {
+        "CountryCode": "MR",
+        "LongLat": "+0519-00402",
+        "Tz": "Africa/Abidjan"
+      },
+      {
+        "CountryCode": "MS",
+        "LongLat": "+1039-06131",
+        "Tz": "America/Port_of_Spain"
+      },
+      {
+        "CountryCode": "MT",
+        "LongLat": "+3554+01431",
+        "Tz": "Europe/Malta"
+      },
+      {
+        "CountryCode": "MU",
+        "LongLat": "-2010+05730",
+        "Tz": "Indian/Mauritius"
+      },
+      {
+        "CountryCode": "MV",
+        "LongLat": "+0410+07330",
+        "Tz": "Indian/Maldives"
+      },
+      {
+        "CountryCode": "MW",
+        "LongLat": "-2558+03235",
+        "Tz": "Africa/Maputo"
+      },
+      {
+        "CountryCode": "MX",
+        "LongLat": "+1924-09909",
+        "Tz": "America/Mexico_City"
+      },
+      {
+        "CountryCode": "MX",
+        "LongLat": "+2048-10515",
+        "Tz": "America/Bahia_Banderas"
+      },
+      {
+        "CountryCode": "MX",
+        "LongLat": "+2058-08937",
+        "Tz": "America/Merida"
+      },
+      {
+        "CountryCode": "MX",
+        "LongLat": "+2105-08646",
+        "Tz": "America/Cancun"
+      },
+      {
+        "CountryCode": "MX",
+        "LongLat": "+2313-10625",
+        "Tz": "America/Mazatlan"
+      },
+      {
+        "CountryCode": "MX",
+        "LongLat": "+2540-10019",
+        "Tz": "America/Monterrey"
+      },
+      {
+        "CountryCode": "MX",
+        "LongLat": "+2550-09730",
+        "Tz": "America/Matamoros"
+      },
+      {
+        "CountryCode": "MX",
+        "LongLat": "+2838-10605",
+        "Tz": "America/Chihuahua"
+      },
+      {
+        "CountryCode": "MX",
+        "LongLat": "+2904-11058",
+        "Tz": "America/Hermosillo"
+      },
+      {
+        "CountryCode": "MX",
+        "LongLat": "+2934-10425",
+        "Tz": "America/Ojinaga"
+      },
+      {
+        "CountryCode": "MX",
+        "LongLat": "+3232-11701",
+        "Tz": "America/Tijuana"
+      },
+      {
+        "CountryCode": "MY",
+        "LongLat": "+0133+11020",
+        "Tz": "Asia/Kuching"
+      },
+      {
+        "CountryCode": "MY",
+        "LongLat": "+0310+10142",
+        "Tz": "Asia/Kuala_Lumpur"
+      },
+      {
+        "CountryCode": "MZ",
+        "LongLat": "-2558+03235",
+        "Tz": "Africa/Maputo"
+      },
+      {
+        "CountryCode": "NA",
+        "LongLat": "-2234+01706",
+        "Tz": "Africa/Windhoek"
+      },
+      {
+        "CountryCode": "NC",
+        "LongLat": "-2216+16627",
+        "Tz": "Pacific/Noumea"
+      },
+      {
+        "CountryCode": "NE",
+        "LongLat": "+0627+00324",
+        "Tz": "Africa/Lagos"
+      },
+      {
+        "CountryCode": "NF",
+        "LongLat": "-2903+16758",
+        "Tz": "Pacific/Norfolk"
+      },
+      {
+        "CountryCode": "NG",
+        "LongLat": "+0627+00324",
+        "Tz": "Africa/Lagos"
+      },
+      {
+        "CountryCode": "NI",
+        "LongLat": "+1209-08617",
+        "Tz": "America/Managua"
+      },
+      {
+        "CountryCode": "NL",
+        "LongLat": "+5222+00454",
+        "Tz": "Europe/Amsterdam"
+      },
+      {
+        "CountryCode": "NO",
+        "LongLat": "+5955+01045",
+        "Tz": "Europe/Oslo"
+      },
+      {
+        "CountryCode": "NP",
+        "LongLat": "+2743+08519",
+        "Tz": "Asia/Kathmandu"
+      },
+      {
+        "CountryCode": "NR",
+        "LongLat": "-0031+16655",
+        "Tz": "Pacific/Nauru"
+      },
+      {
+        "CountryCode": "NU",
+        "LongLat": "-1901-16955",
+        "Tz": "Pacific/Niue"
+      },
+      {
+        "CountryCode": "NZ",
+        "LongLat": "-3652+17446",
+        "Tz": "Pacific/Auckland"
+      },
+      {
+        "CountryCode": "NZ",
+        "LongLat": "-4357-17633",
+        "Tz": "Pacific/Chatham"
+      },
+      {
+        "CountryCode": "OM",
+        "LongLat": "+2518+05518",
+        "Tz": "Asia/Dubai"
+      },
+      {
+        "CountryCode": "PA",
+        "LongLat": "+0858-07932",
+        "Tz": "America/Panama"
+      },
+      {
+        "CountryCode": "PE",
+        "LongLat": "-1203-07703",
+        "Tz": "America/Lima"
+      },
+      {
+        "CountryCode": "PF",
+        "LongLat": "-0900-13930",
+        "Tz": "Pacific/Marquesas"
+      },
+      {
+        "CountryCode": "PF",
+        "LongLat": "-1732-14934",
+        "Tz": "Pacific/Tahiti"
+      },
+      {
+        "CountryCode": "PF",
+        "LongLat": "-2308-13457",
+        "Tz": "Pacific/Gambier"
+      },
+      {
+        "CountryCode": "PG",
+        "LongLat": "-0613+15534",
+        "Tz": "Pacific/Bougainville"
+      },
+      {
+        "CountryCode": "PG",
+        "LongLat": "-0930+14710",
+        "Tz": "Pacific/Port_Moresby"
+      },
+      {
+        "CountryCode": "PH",
+        "LongLat": "+1435+12100",
+        "Tz": "Asia/Manila"
+      },
+      {
+        "CountryCode": "PK",
+        "LongLat": "+2452+06703",
+        "Tz": "Asia/Karachi"
+      },
+      {
+        "CountryCode": "PL",
+        "LongLat": "+5215+02100",
+        "Tz": "Europe/Warsaw"
+      },
+      {
+        "CountryCode": "PM",
+        "LongLat": "+4703-05620",
+        "Tz": "America/Miquelon"
+      },
+      {
+        "CountryCode": "PN",
+        "LongLat": "-2504-13005",
+        "Tz": "Pacific/Pitcairn"
+      },
+      {
+        "CountryCode": "PR",
+        "LongLat": "+182806-0660622",
+        "Tz": "America/Puerto_Rico"
+      },
+      {
+        "CountryCode": "PS",
+        "LongLat": "+3130+03428",
+        "Tz": "Asia/Gaza"
+      },
+      {
+        "CountryCode": "PS",
+        "LongLat": "+313200+0350542",
+        "Tz": "Asia/Hebron"
+      },
+      {
+        "CountryCode": "PT",
+        "LongLat": "+3238-01654",
+        "Tz": "Atlantic/Madeira"
+      },
+      {
+        "CountryCode": "PT",
+        "LongLat": "+3744-02540",
+        "Tz": "Atlantic/Azores"
+      },
+      {
+        "CountryCode": "PT",
+        "LongLat": "+3843-00908",
+        "Tz": "Europe/Lisbon"
+      },
+      {
+        "CountryCode": "PW",
+        "LongLat": "+0720+13429",
+        "Tz": "Pacific/Palau"
+      },
+      {
+        "CountryCode": "PY",
+        "LongLat": "-2516-05740",
+        "Tz": "America/Asuncion"
+      },
+      {
+        "CountryCode": "QA",
+        "LongLat": "+2517+05132",
+        "Tz": "Asia/Qatar"
+      },
+      {
+        "CountryCode": "RE",
+        "LongLat": "-2052+05528",
+        "Tz": "Indian/Reunion"
+      },
+      {
+        "CountryCode": "RO",
+        "LongLat": "+4426+02606",
+        "Tz": "Europe/Bucharest"
+      },
+      {
+        "CountryCode": "RS",
+        "LongLat": "+4450+02030",
+        "Tz": "Europe/Belgrade"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+4310+13156",
+        "Tz": "Asia/Vladivostok"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+4457+03406",
+        "Tz": "Europe/Simferopol"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+4621+04803",
+        "Tz": "Europe/Astrakhan"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+4658+14242",
+        "Tz": "Asia/Sakhalin"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+4844+04425",
+        "Tz": "Europe/Volgograd"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+5134+04602",
+        "Tz": "Europe/Saratov"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+5203+11328",
+        "Tz": "Asia/Chita"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+5216+10420",
+        "Tz": "Asia/Irkutsk"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+5301+15839",
+        "Tz": "Asia/Kamchatka"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+5312+05009",
+        "Tz": "Europe/Samara"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+5322+08345",
+        "Tz": "Asia/Barnaul"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+5345+08707",
+        "Tz": "Asia/Novokuznetsk"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+5420+04824",
+        "Tz": "Europe/Ulyanovsk"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+5443+02030",
+        "Tz": "Europe/Kaliningrad"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+5500+07324",
+        "Tz": "Asia/Omsk"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+5502+08255",
+        "Tz": "Asia/Novosibirsk"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+554521+0373704",
+        "Tz": "Europe/Moscow"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+5601+09250",
+        "Tz": "Asia/Krasnoyarsk"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+5630+08458",
+        "Tz": "Asia/Tomsk"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+5651+06036",
+        "Tz": "Asia/Yekaterinburg"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+5836+04939",
+        "Tz": "Europe/Kirov"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+5934+15048",
+        "Tz": "Asia/Magadan"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+6200+12940",
+        "Tz": "Asia/Yakutsk"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+623923+1353314",
+        "Tz": "Asia/Khandyga"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+643337+1431336",
+        "Tz": "Asia/Ust-Nera"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+6445+17729",
+        "Tz": "Asia/Anadyr"
+      },
+      {
+        "CountryCode": "RU",
+        "LongLat": "+6728+15343",
+        "Tz": "Asia/Srednekolymsk"
+      },
+      {
+        "CountryCode": "RW",
+        "LongLat": "-2558+03235",
+        "Tz": "Africa/Maputo"
+      },
+      {
+        "CountryCode": "SA",
+        "LongLat": "+2438+04643",
+        "Tz": "Asia/Riyadh"
+      },
+      {
+        "CountryCode": "SB",
+        "LongLat": "-0932+16012",
+        "Tz": "Pacific/Guadalcanal"
+      },
+      {
+        "CountryCode": "SC",
+        "LongLat": "-0440+05528",
+        "Tz": "Indian/Mahe"
+      },
+      {
+        "CountryCode": "SD",
+        "LongLat": "+1536+03232",
+        "Tz": "Africa/Khartoum"
+      },
+      {
+        "CountryCode": "SE",
+        "LongLat": "+5920+01803",
+        "Tz": "Europe/Stockholm"
+      },
+      {
+        "CountryCode": "SG",
+        "LongLat": "+0117+10351",
+        "Tz": "Asia/Singapore"
+      },
+      {
+        "CountryCode": "SH",
+        "LongLat": "+0519-00402",
+        "Tz": "Africa/Abidjan"
+      },
+      {
+        "CountryCode": "SI",
+        "LongLat": "+4450+02030",
+        "Tz": "Europe/Belgrade"
+      },
+      {
+        "CountryCode": "SJ",
+        "LongLat": "+5955+01045",
+        "Tz": "Europe/Oslo"
+      },
+      {
+        "CountryCode": "SK",
+        "LongLat": "+5005+01426",
+        "Tz": "Europe/Prague"
+      },
+      {
+        "CountryCode": "SL",
+        "LongLat": "+0519-00402",
+        "Tz": "Africa/Abidjan"
+      },
+      {
+        "CountryCode": "SM",
+        "LongLat": "+4154+01229",
+        "Tz": "Europe/Rome"
+      },
+      {
+        "CountryCode": "SN",
+        "LongLat": "+0519-00402",
+        "Tz": "Africa/Abidjan"
+      },
+      {
+        "CountryCode": "SO",
+        "LongLat": "-0117+03649",
+        "Tz": "Africa/Nairobi"
+      },
+      {
+        "CountryCode": "SR",
+        "LongLat": "+0550-05510",
+        "Tz": "America/Paramaribo"
+      },
+      {
+        "CountryCode": "SS",
+        "LongLat": "+1536+03232",
+        "Tz": "Africa/Khartoum"
+      },
+      {
+        "CountryCode": "ST",
+        "LongLat": "+0519-00402",
+        "Tz": "Africa/Abidjan"
+      },
+      {
+        "CountryCode": "SV",
+        "LongLat": "+1342-08912",
+        "Tz": "America/El_Salvador"
+      },
+      {
+        "CountryCode": "SX",
+        "LongLat": "+1211-06900",
+        "Tz": "America/Curacao"
+      },
+      {
+        "CountryCode": "SY",
+        "LongLat": "+3330+03618",
+        "Tz": "Asia/Damascus"
+      },
+      {
+        "CountryCode": "SZ",
+        "LongLat": "-2615+02800",
+        "Tz": "Africa/Johannesburg"
+      },
+      {
+        "CountryCode": "TC",
+        "LongLat": "+2128-07108",
+        "Tz": "America/Grand_Turk"
+      },
+      {
+        "CountryCode": "TD",
+        "LongLat": "+1207+01503",
+        "Tz": "Africa/Ndjamena"
+      },
+      {
+        "CountryCode": "TF",
+        "LongLat": "-2052+05528",
+        "Tz": "Indian/Reunion"
+      },
+      {
+        "CountryCode": "TF",
+        "LongLat": "-492110+0701303",
+        "Tz": "Indian/Kerguelen"
+      },
+      {
+        "CountryCode": "TG",
+        "LongLat": "+0519-00402",
+        "Tz": "Africa/Abidjan"
+      },
+      {
+        "CountryCode": "TH",
+        "LongLat": "+1345+10031",
+        "Tz": "Asia/Bangkok"
+      },
+      {
+        "CountryCode": "TJ",
+        "LongLat": "+3835+06848",
+        "Tz": "Asia/Dushanbe"
+      },
+      {
+        "CountryCode": "TK",
+        "LongLat": "-0922-17114",
+        "Tz": "Pacific/Fakaofo"
+      },
+      {
+        "CountryCode": "TL",
+        "LongLat": "-0833+12535",
+        "Tz": "Asia/Dili"
+      },
+      {
+        "CountryCode": "TM",
+        "LongLat": "+3757+05823",
+        "Tz": "Asia/Ashgabat"
+      },
+      {
+        "CountryCode": "TN",
+        "LongLat": "+3648+01011",
+        "Tz": "Africa/Tunis"
+      },
+      {
+        "CountryCode": "TO",
+        "LongLat": "-2110-17510",
+        "Tz": "Pacific/Tongatapu"
+      },
+      {
+        "CountryCode": "TR",
+        "LongLat": "+4101+02858",
+        "Tz": "Europe/Istanbul"
+      },
+      {
+        "CountryCode": "TT",
+        "LongLat": "+1039-06131",
+        "Tz": "America/Port_of_Spain"
+      },
+      {
+        "CountryCode": "TV",
+        "LongLat": "-0831+17913",
+        "Tz": "Pacific/Funafuti"
+      },
+      {
+        "CountryCode": "TW",
+        "LongLat": "+2503+12130",
+        "Tz": "Asia/Taipei"
+      },
+      {
+        "CountryCode": "TZ",
+        "LongLat": "-0117+03649",
+        "Tz": "Africa/Nairobi"
+      },
+      {
+        "CountryCode": "UA",
+        "LongLat": "+4750+03510",
+        "Tz": "Europe/Zaporozhye"
+      },
+      {
+        "CountryCode": "UA",
+        "LongLat": "+4837+02218",
+        "Tz": "Europe/Uzhgorod"
+      },
+      {
+        "CountryCode": "UA",
+        "LongLat": "+5026+03031",
+        "Tz": "Europe/Kiev"
+      },
+      {
+        "CountryCode": "UG",
+        "LongLat": "-0117+03649",
+        "Tz": "Africa/Nairobi"
+      },
+      {
+        "CountryCode": "UM",
+        "LongLat": "+1917+16637",
+        "Tz": "Pacific/Wake"
+      },
+      {
+        "CountryCode": "UM",
+        "LongLat": "+211825-1575130",
+        "Tz": "Pacific/Honolulu"
+      },
+      {
+        "CountryCode": "UM",
+        "LongLat": "-1416-17042",
+        "Tz": "Pacific/Pago_Pago"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+211825-1575130",
+        "Tz": "Pacific/Honolulu"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+332654-1120424",
+        "Tz": "America/Phoenix"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+340308-1181434",
+        "Tz": "America/Los_Angeles"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+364947-0845057",
+        "Tz": "America/Kentucky/Monticello"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+375711-0864541",
+        "Tz": "America/Indiana/Tell_City"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+381515-0854534",
+        "Tz": "America/Kentucky/Louisville"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+382232-0862041",
+        "Tz": "America/Indiana/Marengo"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+382931-0871643",
+        "Tz": "America/Indiana/Petersburg"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+384038-0873143",
+        "Tz": "America/Indiana/Vincennes"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+384452-0850402",
+        "Tz": "America/Indiana/Vevay"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+394421-1045903",
+        "Tz": "America/Denver"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+394606-0860929",
+        "Tz": "America/Indiana/Indianapolis"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+404251-0740023",
+        "Tz": "America/New_York"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+410305-0863611",
+        "Tz": "America/Indiana/Winamac"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+411745-0863730",
+        "Tz": "America/Indiana/Knox"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+415100-0873900",
+        "Tz": "America/Chicago"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+421953-0830245",
+        "Tz": "America/Detroit"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+433649-1161209",
+        "Tz": "America/Boise"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+450628-0873651",
+        "Tz": "America/Menominee"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+465042-1012439",
+        "Tz": "America/North_Dakota/New_Salem"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+470659-1011757",
+        "Tz": "America/North_Dakota/Center"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+471551-1014640",
+        "Tz": "America/North_Dakota/Beulah"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+515248-1763929",
+        "Tz": "America/Adak"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+550737-1313435",
+        "Tz": "America/Metlakatla"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+571035-1351807",
+        "Tz": "America/Sitka"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+581807-1342511",
+        "Tz": "America/Juneau"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+593249-1394338",
+        "Tz": "America/Yakutat"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+611305-1495401",
+        "Tz": "America/Anchorage"
+      },
+      {
+        "CountryCode": "US",
+        "LongLat": "+643004-1652423",
+        "Tz": "America/Nome"
+      },
+      {
+        "CountryCode": "UY",
+        "LongLat": "-3453-05611",
+        "Tz": "America/Montevideo"
+      },
+      {
+        "CountryCode": "UZ",
+        "LongLat": "+3940+06648",
+        "Tz": "Asia/Samarkand"
+      },
+      {
+        "CountryCode": "UZ",
+        "LongLat": "+4120+06918",
+        "Tz": "Asia/Tashkent"
+      },
+      {
+        "CountryCode": "VA",
+        "LongLat": "+4154+01229",
+        "Tz": "Europe/Rome"
+      },
+      {
+        "CountryCode": "VC",
+        "LongLat": "+1039-06131",
+        "Tz": "America/Port_of_Spain"
+      },
+      {
+        "CountryCode": "VE",
+        "LongLat": "+1030-06656",
+        "Tz": "America/Caracas"
+      },
+      {
+        "CountryCode": "VG",
+        "LongLat": "+1039-06131",
+        "Tz": "America/Port_of_Spain"
+      },
+      {
+        "CountryCode": "VI",
+        "LongLat": "+1039-06131",
+        "Tz": "America/Port_of_Spain"
+      },
+      {
+        "CountryCode": "VN",
+        "LongLat": "+1045+10640",
+        "Tz": "Asia/Ho_Chi_Minh"
+      },
+      {
+        "CountryCode": "VN",
+        "LongLat": "+1345+10031",
+        "Tz": "Asia/Bangkok"
+      },
+      {
+        "CountryCode": "VU",
+        "LongLat": "-1740+16825",
+        "Tz": "Pacific/Efate"
+      },
+      {
+        "CountryCode": "WF",
+        "LongLat": "-1318-17610",
+        "Tz": "Pacific/Wallis"
+      },
+      {
+        "CountryCode": "WS",
+        "LongLat": "-1350-17144",
+        "Tz": "Pacific/Apia"
+      },
+      {
+        "CountryCode": "YE",
+        "LongLat": "+2438+04643",
+        "Tz": "Asia/Riyadh"
+      },
+      {
+        "CountryCode": "YT",
+        "LongLat": "-0117+03649",
+        "Tz": "Africa/Nairobi"
+      },
+      {
+        "CountryCode": "ZA",
+        "LongLat": "-2615+02800",
+        "Tz": "Africa/Johannesburg"
+      },
+      {
+        "CountryCode": "ZM",
+        "LongLat": "-2558+03235",
+        "Tz": "Africa/Maputo"
+      },
+      {
+        "CountryCode": "ZW",
+        "LongLat": "-2558+03235",
+        "Tz": "Africa/Maputo"
+      }
+    ]
+  }
+}
